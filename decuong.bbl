@@ -1,0 +1,36 @@
+\begin{thebibliography}{1}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \def\href#1#2{#2} \def\path#1{#1}\fi
+
+\bibitem{R.R.NairFSC}
+R.~R. Nair, P.~Blake, A.~N. Grigorenko, K.~S. Novoselov, T.~J. Booth,
+  T.~Stauber, N.~M. Peres, A.~K. Geim,
+  \href{https://www.science.org/doi/10.1126/science.1156965}{Fine structure
+  constant defines visual transparency of graphene}, Science 320~(5881) (2008)
+  1308.
+\newblock \href {https://doi.org/10.1126/science.1156965}
+  {\path{doi:10.1126/science.1156965}}.
+\newline\urlprefix\url{https://www.science.org/doi/10.1126/science.1156965}
+
+\bibitem{NulliAPL18}
+S.~A. Nulli, M.~S. Ukhtary, R.~Saito,
+  \href{https://doi.org/10.1063/1.5012604}{Significant enhancement of light
+  absorption in undoped graphene using dielectric multilayer system}, Appl.
+  Phys. Lett. 112~(7) (2018) 073101.
+\newblock \href {https://doi.org/10.1063/1.5012604}
+  {\path{doi:10.1063/1.5012604}}.
+\newline\urlprefix\url{https://doi.org/10.1063/1.5012604}
+
+\bibitem{ZhanTMM}
+T.~Zhan, X.~Shi, Y.~Dai, X.~Liu, J.~Zi,
+  \href{https://iopscience.iop.org/article/10.1088/0953-8984/25/21/215301/pdf}{Transfer
+  matrix method for optics in graphene layers}, Journal of Physics: Condensed
+  Matter 25~(21) (2013).
+\newblock \href {https://doi.org/10.1088/0953-8984/25/21/215301}
+  {\path{doi:10.1088/0953-8984/25/21/215301}}.
+\newline\urlprefix\url{https://iopscience.iop.org/article/10.1088/0953-8984/25/21/215301/pdf}
+
+\end{thebibliography}
