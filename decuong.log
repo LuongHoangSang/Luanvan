@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.8)  18 MAY 2024 15:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.8)  13 JUN 2024 07:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -372,12 +372,22 @@ LaTeX Info: Redefining \Relbar on input line 971.
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
 )
+(c:/texlive/2022/texmf-dist/tex/latex/lipsum/lipsum.sty
+(c:/texlive/2022/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2023-02-02 LaTeX2e option processing using LaTeX3 keys
+)
+Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
+\g__lipsum_par_int=\count280
+\l__lipsum_a_int=\count281
+\l__lipsum_b_int=\count282
+
+(c:/texlive/2022/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex))
 (c:/texlive/2022/texmf-dist/tex/latex/siunitx/siunitx.sty
 Package: siunitx 2023-01-03 v3.2.0 A comprehensive (SI) units package
 \l__siunitx_angle_tmp_dim=\dimen157
 \l__siunitx_angle_marker_box=\box60
 \l__siunitx_angle_unit_box=\box61
-\l__siunitx_compound_count_int=\count280
+\l__siunitx_compound_count_int=\count283
 
 (c:/texlive/2022/texmf-dist/tex/latex/translations/translations.sty
 Package: translations 2022/02/05 v1.12 internationalization of LaTeX2e packages
@@ -400,15 +410,15 @@ Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 ))
-\l__siunitx_number_exponent_fixed_int=\count281
-\l__siunitx_number_min_decimal_int=\count282
-\l__siunitx_number_min_integer_int=\count283
-\l__siunitx_number_round_precision_int=\count284
-\l__siunitx_number_lower_threshold_int=\count285
-\l__siunitx_number_upper_threshold_int=\count286
-\l__siunitx_number_group_first_int=\count287
-\l__siunitx_number_group_size_int=\count288
-\l__siunitx_number_group_minimum_int=\count289
+\l__siunitx_number_exponent_fixed_int=\count284
+\l__siunitx_number_min_decimal_int=\count285
+\l__siunitx_number_min_integer_int=\count286
+\l__siunitx_number_round_precision_int=\count287
+\l__siunitx_number_lower_threshold_int=\count288
+\l__siunitx_number_upper_threshold_int=\count289
+\l__siunitx_number_group_first_int=\count290
+\l__siunitx_number_group_size_int=\count291
+\l__siunitx_number_group_minimum_int=\count292
 \l__siunitx_table_tmp_box=\box62
 \l__siunitx_table_tmp_dim=\dimen158
 \l__siunitx_table_column_width_dim=\dimen159
@@ -419,9 +429,9 @@ Package pdftexcmds Info: \pdfdraftmode found.
 \l__siunitx_table_after_box=\box67
 \l__siunitx_table_before_dim=\dimen160
 \l__siunitx_table_carry_dim=\dimen161
-\l__siunitx_unit_tmp_int=\count290
-\l__siunitx_unit_position_int=\count291
-\l__siunitx_unit_total_int=\count292
+\l__siunitx_unit_tmp_int=\count293
+\l__siunitx_unit_position_int=\count294
+\l__siunitx_unit_total_int=\count295
 
 (c:/texlive/2022/texmf-dist/tex/latex/tools/array.sty
 Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
@@ -433,12 +443,51 @@ Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
 \backup@length=\skip61
 \ar@cellbox=\box69
 ))
+(c:/texlive/2022/texmf-dist/tex/latex/mhchem/mhchem.sty
+Package: mhchem 2021/12/31 v4.09 for typesetting chemical formulae
+
+(c:/texlive/2022/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count296
+\calc@Bcount=\count297
+\calc@Adimen=\dimen164
+\calc@Bdimen=\dimen165
+\calc@Askip=\skip62
+\calc@Bskip=\skip63
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count298
+\calc@Cskip=\skip64
+)
+(c:/texlive/2022/texmf-dist/tex/latex/chemgreek/chemgreek.sty
+Package: chemgreek 2020/01/16 v1.1a interface for upright Greek letters for use
+ in chemistry (CN)
+\l__chemgreek_tmpa_int=\count299
+\g__chemgreek_tmpa_int=\count300
+)
+\l__mhchem_ce_distanceFromLastComma_int=\count301
+\__mhchem_arrow_extPgfLength_skip=\skip65
+\mhchem@minispace@tmp=\skip66
+\mhchem@minibackspace@tmp=\skip67
+\mhchem@bondwidth=\skip68
+\mhchem@bondheight=\skip69
+\mhchem@smallbondwidth@tmpA=\skip70
+\mhchem@smallbondwidth@tmpB=\skip71
+\mhchem@smallbondwidth=\skip72
+\mhchem@bondtmp@minussidebearingleft=\skip73
+\mhchem@bondtmp@minussidebearingright=\skip74
+\l__mhchem_option_version_int=\count302
+\mhchem@option@minusmathsidebearingleft=\dimen166
+\mhchem@option@minusmathsidebearingright=\dimen167
+\mhchem@option@minustextsidebearingleft=\dimen168
+\mhchem@option@minustextsidebearingright=\dimen169
+)
 (c:/texlive/2022/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2022/12/04 v6.7b set line spacing
 )
 (c:/texlive/2022/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count293
+\c@float@type=\count303
 \float@exts=\toks34
 \float@box=\box70
 \@float@everytoks=\toks35
@@ -449,59 +498,49 @@ Package: caption 2022/03/01 v3.6b Customizing captions (AR)
 
 (c:/texlive/2022/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2022/03/17 v2.3b caption3 kernel (AR)
-\caption@tempdima=\dimen164
-\captionmargin=\dimen165
-\caption@leftmargin=\dimen166
-\caption@rightmargin=\dimen167
-\caption@width=\dimen168
-\caption@indent=\dimen169
-\caption@parindent=\dimen170
-\caption@hangindent=\dimen171
+\caption@tempdima=\dimen170
+\captionmargin=\dimen171
+\caption@leftmargin=\dimen172
+\caption@rightmargin=\dimen173
+\caption@width=\dimen174
+\caption@indent=\dimen175
+\caption@parindent=\dimen176
+\caption@hangindent=\dimen177
 Package caption Info: elsarticle document class detected.
 
 (c:/texlive/2022/texmf-dist/tex/latex/caption/caption-elsarticle.sto
 File: caption-elsarticle.sto 2020/08/22 v2.0 Adaption of the caption package to
  the elsarticle document class (AR)
 ))
-\c@caption@flags=\count294
-\c@continuedfloat=\count295
+\c@caption@flags=\count304
+\c@continuedfloat=\count305
 Package caption Info: float package is loaded.
+)
+(c:/texlive/2022/texmf-dist/tex/latex/capt-of/capt-of.sty
+Package: capt-of 2009/12/29 v0.2 standard captions outside of floats
 )
 (c:/texlive/2022/texmf-dist/tex/latex/caption/subcaption.sty
 Package: subcaption 2022/01/07 v1.5 Sub-captions (AR)
-\c@subfigure=\count296
-\c@subtable=\count297
+\c@subfigure=\count306
+\c@subtable=\count307
 )
 (c:/texlive/2022/texmf-dist/tex/latex/mathtools/mathtools.sty
 Package: mathtools 2022/06/29 v1.29 mathematical typesetting tools
 
-(c:/texlive/2022/texmf-dist/tex/latex/tools/calc.sty
-Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count298
-\calc@Bcount=\count299
-\calc@Adimen=\dimen172
-\calc@Bdimen=\dimen173
-\calc@Askip=\skip62
-\calc@Bskip=\skip63
-LaTeX Info: Redefining \setlength on input line 80.
-LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count300
-\calc@Cskip=\skip64
-)
 (c:/texlive/2022/texmf-dist/tex/latex/mathtools/mhsetup.sty
 Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
 )
-\g_MT_multlinerow_int=\count301
-\l_MT_multwidth_dim=\dimen174
-\origjot=\skip65
-\l_MT_shortvdotswithinadjustabove_dim=\dimen175
-\l_MT_shortvdotswithinadjustbelow_dim=\dimen176
-\l_MT_above_intertext_sep=\dimen177
-\l_MT_below_intertext_sep=\dimen178
-\l_MT_above_shortintertext_sep=\dimen179
-\l_MT_below_shortintertext_sep=\dimen180
+\g_MT_multlinerow_int=\count308
+\l_MT_multwidth_dim=\dimen178
+\origjot=\skip75
+\l_MT_shortvdotswithinadjustabove_dim=\dimen179
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen180
+\l_MT_above_intertext_sep=\dimen181
+\l_MT_below_intertext_sep=\dimen182
+\l_MT_above_shortintertext_sep=\dimen183
+\l_MT_below_shortintertext_sep=\dimen184
 \xmathstrut@box=\box72
-\xmathstrut@dim=\dimen181
+\xmathstrut@dim=\dimen185
 )
 (c:/texlive/2022/texmf-dist/tex/latex/sttools/cuted.sty
 Package: cuted 2021/10/04 v2.0 Mixing onecolumn and twocolumn modes
@@ -515,18 +554,18 @@ Package: cuted 2021/10/04 v2.0 Mixing onecolumn and twocolumn modes
 \@viper=\box77
 \cuted@@varbox@a=\box78
 \cuted@@varbox@c=\box79
-\cuted@@tempdim@spread=\dimen182
-\cuted@@tempdim@a=\dimen183
-\cuted@@tempdim@b=\dimen184
-\ht@hold@viper=\dimen185
-\ht@viper=\dimen186
-\var@@pagediscards@ht=\dimen187
-\stripsep=\skip66
-\viper@penalty=\count302
+\cuted@@tempdim@spread=\dimen186
+\cuted@@tempdim@a=\dimen187
+\cuted@@tempdim@b=\dimen188
+\ht@hold@viper=\dimen189
+\ht@viper=\dimen190
+\var@@pagediscards@ht=\dimen191
+\stripsep=\skip76
+\viper@penalty=\count309
 )
 (c:/texlive/2022/texmf-dist/tex/latex/titlesec/titletoc.sty
 Package: titletoc 2021/07/05 v2.14 TOC entries
-\ttl@leftsep=\dimen188
+\ttl@leftsep=\dimen192
 )
 (c:/texlive/2022/texmf-dist/tex/latex/anyfontsize/anyfontsize.sty
 Package: anyfontsize 2007/11/22 anyfontsize.sty by pts
@@ -543,24 +582,50 @@ LaTeX Warning: Command \underbar  has changed.
 LaTeX Warning: Command \underline  has changed.
                Check if current package is valid.
 
-) (c:/texlive/2022/texmf-dist/tex/latex/geometry/geometry.sty
+) (c:/texlive/2022/texmf-dist/tex/latex/makecell/makecell.sty
+Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
+\rotheadsize=\dimen193
+\c@nlinenum=\count310
+\TeXr@lab=\toks39
+)
+(c:/texlive/2022/texmf-dist/tex/latex/cases/cases.sty
+Package: cases 2020/03/29 ver 3.2
+\numc@numwid=\dimen194
+)
+(c:/texlive/2022/texmf-dist/tex/latex/tools/bm.sty
+Package: bm 2022/01/05 v1.2f Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup6
+\symboldletters=\mathgroup7
+\symboldsymbols=\mathgroup8
+Package bm Info: No bold for \OMX/cmex/m/n, using \pmb.
+Package bm Info: No bold for \U/msa/m/n, using \pmb.
+Package bm Info: No bold for \U/msb/m/n, using \pmb.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 149.
+)
+(c:/texlive/2022/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+(c:/texlive/2022/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
 (c:/texlive/2022/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count303
-\Gm@cntv=\count304
-\c@Gm@tempcnt=\count305
-\Gm@bindingoffset=\dimen189
-\Gm@wd@mp=\dimen190
-\Gm@odd@mp=\dimen191
-\Gm@even@mp=\dimen192
-\Gm@layoutwidth=\dimen193
-\Gm@layoutheight=\dimen194
-\Gm@layouthoffset=\dimen195
-\Gm@layoutvoffset=\dimen196
-\Gm@dimlist=\toks39
+\Gm@cnth=\count311
+\Gm@cntv=\count312
+\c@Gm@tempcnt=\count313
+\Gm@bindingoffset=\dimen195
+\Gm@wd@mp=\dimen196
+\Gm@odd@mp=\dimen197
+\Gm@even@mp=\dimen198
+\Gm@layoutwidth=\dimen199
+\Gm@layoutheight=\dimen256
+\Gm@layouthoffset=\dimen257
+\Gm@layoutvoffset=\dimen258
+\Gm@dimlist=\toks40
+)
+(c:/texlive/2022/texmf-dist/tex/latex/psnfss/times.sty
+Package: times 2020/03/25 PSNFSS-v9.3 (SPQR) 
 )
 (c:/texlive/2022/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2022-11-13 v7.00u Hypertext links for LaTeX
@@ -595,11 +660,11 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 (c:/texlive/2022/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
-\c@section@level=\count306
+\c@section@level=\count314
 )
-\@linkdim=\dimen197
-\Hy@linkcounter=\count307
-\Hy@pagecounter=\count308
+\@linkdim=\dimen259
+\Hy@linkcounter=\count315
+\Hy@pagecounter=\count316
 
 (c:/texlive/2022/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2022-11-13 v7.00u Hyperref: PDFDocEncoding definition (HO)
@@ -612,7 +677,7 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 (c:/texlive/2022/texmf-dist/tex/generic/etexcmds/etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count309
+\Hy@SavedSpaceFactor=\count317
 
 (c:/texlive/2022/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2022-11-13 v7.00u Hyperref: PDF Unicode definition (HO)
@@ -628,14 +693,14 @@ Package hyperref Info: Plain pages OFF on input line 4177.
 Package hyperref Info: Backreferencing OFF on input line 4182.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4410.
-\c@Hy@tempcnt=\count310
+\c@Hy@tempcnt=\count318
 
 (c:/texlive/2022/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4748.
-\XeTeXLinkMargin=\dimen198
+\XeTeXLinkMargin=\dimen260
 
 (c:/texlive/2022/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
@@ -644,9 +709,9 @@ Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count311
-\Field@Width=\dimen199
-\Fld@charsize=\dimen256
+\Fld@menulength=\count319
+\Field@Width=\dimen261
+\Fld@charsize=\dimen262
 Package hyperref Info: Hyper figures OFF on input line 6027.
 Package hyperref Info: Link nesting OFF on input line 6032.
 Package hyperref Info: Hyper index ON on input line 6035.
@@ -659,9 +724,9 @@ Package hyperref Info: PDF/A mode OFF on input line 6057.
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count312
-\c@Item=\count313
-\c@Hfootnote=\count314
+\Hy@abspage=\count320
+\c@Item=\count321
+\c@Hfootnote=\count322
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
@@ -673,8 +738,8 @@ Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
 kage
 with kernel methods
 )
-\Fld@listcount=\count315
-\c@bookmark@seq@number=\count316
+\Fld@listcount=\count323
+\c@bookmark@seq@number=\count324
 
 (c:/texlive/2022/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
@@ -685,47 +750,52 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 85.
 )
-\Hy@SectionHShift=\skip67
+\Hy@SectionHShift=\skip77
 )
 Package translations Info: No language package found. I am going to use `englis
-h' as default language. on input line 24.
+h' as default language. on input line 31.
+LaTeX Font Info:    Trying to load font information for T5+ptm on input line 31
+.
 
-(./decuong.aux)
+(c:/texlive/2022/texmf-dist/tex/latex/vntex/t5ptm.fd
+File: t5utm.fd 2005/08/24 Fontinst v1.929 font definitions for T5/ptm.
+) (./decuong.aux)
 \openout1 = `decuong.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
- (c:/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+
+(c:/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count317
-\scratchdimen=\dimen257
+\scratchcounter=\count325
+\scratchdimen=\dimen263
 \scratchbox=\box80
-\nofMPsegments=\count318
-\nofMParguments=\count319
-\everyMPshowfont=\toks40
-\MPscratchCnt=\count320
-\MPscratchDim=\dimen258
-\MPnumerator=\count321
-\makeMPintoPDFobject=\count322
-\everyMPtoPDFconversion=\toks41
+\nofMPsegments=\count326
+\nofMParguments=\count327
+\everyMPshowfont=\toks41
+\MPscratchCnt=\count328
+\MPscratchDim=\dimen264
+\MPnumerator=\count329
+\makeMPintoPDFobject=\count330
+\everyMPtoPDFconversion=\toks42
 ) (c:/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -750,7 +820,10 @@ File: translations-basic-dictionary-english.trsl (english translation file `tra
 nslations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `english'. on input line 24.
+or `english'. on input line 31.
+
+Package chemgreek Info: Activating mapping `default' on line 31.
+
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
@@ -789,75 +862,129 @@ Package caption Info: End \AtBeginDocument code.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring ON on input line 24.
+Package hyperref Info: Link coloring ON on input line 31.
 (./decuong.out) (./decuong.out)
 \@outlinefile=\write4
 \openout4 = `decuong.out'.
 
-<figs/fig1model.pdf, id=29, 578.16pt x 419.166pt>
-File: figs/fig1model.pdf Graphic file (type pdf)
-<use figs/fig1model.pdf>
-Package pdftex.def Info: figs/fig1model.pdf  used on input line 36.
-(pdftex.def)             Requested size: 264.61333pt x 191.84012pt.
-LaTeX Font Info:    Calculating math sizes for size <13> on input line 41.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 41.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 55.
 
 
 (c:/texlive/2022/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 41.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 55.
 
 
 (c:/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [1
-
-{c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./figs/fig1mode
-l.pdf>]
-(./decuong.bbl
-Overfull \hbox (10.97357pt too wide) in paragraph at lines 54--1
-[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 54--1
-
- []
-
-LaTeX Font Info:    Trying to load font information for T5+cmtt on input line 1
-5.
-(c:/texlive/2022/texmf-dist/tex/latex/vntex/t5cmtt.fd
-File: t5cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
-Underfull \hbox (badness 10000) in paragraph at lines 28--35
-\T5/cmr/m/n/13 URL [][]$\T5/cmtt/m/n/13 https : / / iopscience . iop . org / ar
-ticle / 10 . 1088 / 0953-[]8984 / 25 /
+Overfull \hbox (2.28pt too wide) in paragraph at lines 55--79
+[]$  $[]$ 
  []
 
-[2]) [3] (./decuong.aux)
+[1
+
+{c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    Calculating math sizes for size <13> on input line 93.
+<figs/Hinh1.pdf, id=45, 404.02943pt x 187.78859pt>
+File: figs/Hinh1.pdf Graphic file (type pdf)
+<use figs/Hinh1.pdf>
+Package pdftex.def Info: figs/Hinh1.pdf  used on input line 96.
+(pdftex.def)             Requested size: 352.81552pt x 163.99367pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.103 \section
+              {Đối tượng nghiên cứu} [1 <./figs/Hinh1.pdf>]
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 1
+07.
+
+(c:/texlive/2022/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+) [2]
+Overfull \hbox (10.97359pt too wide) in paragraph at lines 133--146
+ [] 
+ []
+
+(./decuong.bbl
+LaTeX Font Info:    Trying to load font information for T5+pcr on input line 14
+.
+ (c:/texlive/2022/texmf-dist/tex/latex/vntex/t5pcr.fd
+File: t5ucr.fd 2005/08/24 Fontinst v1.929 font definitions for T5/pcr.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 18--24
+[]\T5/ptm/m/n/13 P. Steeneken, R. Dolle-man, D. Davi-dovikj, F. Al-i-jani, H. v
+an der
+ []
+
+
+Underfull \hbox (badness 2103) in paragraph at lines 18--24
+\T5/ptm/m/n/13 Zant, [][]Dy-nam-ics of 2d ma-te-rial mem-branes[][], 2D Ma-te-r
+i-als 8 (4) (2021).
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--24
+\T5/ptm/m/n/13 URL [][]$\T5/pcr/m/n/13 https : / / iopscience . iop . org / art
+icle / 10 . 1088 /
+ []
+
+[3]
+Underfull \hbox (badness 3449) in paragraph at lines 36--43
+[]\T5/ptm/m/n/13 D. Miller, B. Alem�n, [][]Spa-tially re-solved op-ti-cal ex-ci
+-ta-tion of me-chan-
+ []
+
+
+Underfull \hbox (badness 8075) in paragraph at lines 36--43
+\T5/ptm/m/n/13 i-cal modes in graphene nems[][], Ap-plied Physics Let-ters 115 
+(2019).
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--43
+\T5/ptm/m/n/13 URL [][]$\T5/pcr/m/n/13 https : / / pubs . aip . org / aip / apl
+ / article / 115 / 19 /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--61
+\T5/ptm/m/n/13 URL [][]$\T5/pcr/m/n/13 https : / / iopscience . iop . org / art
+icle / 10 . 1088 /
+ []
+
+) [4] (./decuong.aux)
 Package rerunfilecheck Info: File `decuong.out' has not changed.
-(rerunfilecheck)             Checksum: DF03FA6E74E79C0C7CEDC1C9A1F455E0;1196.
+(rerunfilecheck)             Checksum: 2D64163C3BC9E341F60EEA7845EB9EAD;1493.
  ) 
 Here is how much of TeX's memory you used:
- 18031 strings out of 476064
- 340203 string characters out of 5794900
+ 19818 strings out of 476064
+ 378448 string characters out of 5794900
  1860340 words of memory out of 5000000
- 38189 multiletter control sequences out of 15000+600000
- 522459 words of font info for 57 fonts, out of 8000000 for 9000
+ 39904 multiletter control sequences out of 15000+600000
+ 562329 words of font info for 104 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,8n,77p,1715b,1013s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{c:/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<c:/tex
-live/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2022
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2022/texmf-dis
-t/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/2022/texmf-dist/fonts/ty
-pe1/vntex/vnr/vnbx12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/vntex/vnr/vnr1
-0.pfb><c:/texlive/2022/texmf-dist/fonts/type1/vntex/vnr/vnr12.pfb><c:/texlive/2
-022/texmf-dist/fonts/type1/vntex/vnr/vntt12.pfb>
-Output written on decuong.pdf (3 pages, 187598 bytes).
+ 75i,15n,77p,1254b,1014s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{c:/texlive/2022/texmf-dist/fonts/enc/dvips/vntex/t5.enc}{c:/texlive/2022/tex
+mf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2022/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmex10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmmi12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+mi8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb><c
+:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/
+2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2022/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb><c:/texlive/2022/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/vn
+tex/urwvn/ucrr8v.pfb><c:/texlive/2022/texmf-dist/fonts/type1/vntex/urwvn/utmb8v
+.pfb><c:/texlive/2022/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2
+022/texmf-dist/fonts/type1/vntex/urwvn/utmr8v.pfb><c:/texlive/2022/texmf-dist/f
+onts/type1/vntex/urwvn/utmri8v.pfb>
+Output written on decuong.pdf (5 pages, 913666 bytes).
 PDF statistics:
- 149 PDF objects out of 1000 (max. 8388607)
- 113 compressed objects within 2 object streams
- 15 named destinations out of 1000 (max. 500000)
- 54 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 221 PDF objects out of 1000 (max. 8388607)
+ 168 compressed objects within 2 object streams
+ 23 named destinations out of 1000 (max. 500000)
+ 62 words of extra memory for PDF output out of 10000 (max. 10000000)
 

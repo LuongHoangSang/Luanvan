@@ -5,24 +5,50 @@
 \expandafter\ifx\csname href\endcsname\relax
   \def\href#1#2{#2} \def\path#1{#1}\fi
 
-\bibitem{R.R.NairFSC}
-R.~R. Nair, P.~Blake, A.~N. Grigorenko, K.~S. Novoselov, T.~J. Booth,
-  T.~Stauber, N.~M. Peres, A.~K. Geim,
-  \href{https://www.science.org/doi/10.1126/science.1156965}{Fine structure
-  constant defines visual transparency of graphene}, Science 320~(5881) (2008)
-  1308.
-\newblock \href {https://doi.org/10.1126/science.1156965}
-  {\path{doi:10.1126/science.1156965}}.
-\newline\urlprefix\url{https://www.science.org/doi/10.1126/science.1156965}
+\bibitem{H.Zhang}
+H.~Zhang, J.~Huang, H.~Wang, R.~Liu, X.~Huai, J.~Jiang, C.~Anfuso,
+  \href{https://www.sciencedirect.com/science/article/abs/pii/S0030401817303887}{Atomic
+  force microscopy for two-dimensional materials: A tutorial review}, Optics
+  Communications 406 (2018) 3--17.
+\newblock \href {https://doi.org/10.1016/j.optcom.2017.05.015}
+  {\path{doi:10.1016/j.optcom.2017.05.015}}.
+\newline\urlprefix\url{https://www.sciencedirect.com/science/article/abs/pii/S0030401817303887}
 
-\bibitem{NulliAPL18}
-S.~A. Nulli, M.~S. Ukhtary, R.~Saito,
-  \href{https://doi.org/10.1063/1.5012604}{Significant enhancement of light
-  absorption in undoped graphene using dielectric multilayer system}, Appl.
-  Phys. Lett. 112~(7) (2018) 073101.
-\newblock \href {https://doi.org/10.1063/1.5012604}
-  {\path{doi:10.1063/1.5012604}}.
-\newline\urlprefix\url{https://doi.org/10.1063/1.5012604}
+\bibitem{P.G.Steeneken}
+P.~Steeneken, R.~Dolleman, D.~Davidovikj, F.~Alijani, H.~van~der Zant,
+  \href{https://iopscience.iop.org/article/10.1088/2053-1583/ac152c}{Dynamics
+  of 2d material membranes}, 2D Materials 8~(4) (2021).
+\newblock \href {https://doi.org/10.1088/2053-1583/ac152c}
+  {\path{doi:10.1088/2053-1583/ac152c}}.
+\newline\urlprefix\url{https://iopscience.iop.org/article/10.1088/2053-1583/ac152c}
+
+\bibitem{Zhang2015}
+T.~Zhang, H.~Chang, Y.~Wu, P.~Xiao, N.~Yi, Y.~Lu, Y.~Ma, Y.~Huang, K.~Zhao,
+  X.~Yan, Z.~Liu, J.~Tian, Y.~Chen,
+  \href{https://www.nature.com/articles/nphoton.2015.105}{Macroscopic and
+  direct light propulsion of bulk graphene material}, Nature Photonics 9 (2015)
+  471--476.
+\newblock \href {https://doi.org/10.1038/nphoton.2015.105}
+  {\path{doi:10.1038/nphoton.2015.105}}.
+\newline\urlprefix\url{https://www.nature.com/articles/nphoton.2015.105}
+
+\bibitem{Miller}
+D.~Miller, B.~Alemán,
+  \href{https://pubs.aip.org/aip/apl/article/115/19/193102/37764/Spatially-resolved-optical-excitation-of}{Spatially
+  resolved optical excitation of mechanical modes in graphene nems}, Applied
+  Physics Letters 115 (2019).
+\newblock \href {https://doi.org/10.1063/1.5111755}
+  {\path{doi:10.1063/1.5111755}}.
+\newline\urlprefix\url{https://pubs.aip.org/aip/apl/article/115/19/193102/37764/Spatially-resolved-optical-excitation-of}
+
+\bibitem{ThayVy}
+L.~T. Dat, S.~H.Luong, V.~N.T.Pham, N.~D. Vy, T.~Iida,
+  \href{https://www.sciencedirect.com/science/article/abs/pii/S0030401822003285}{Radiation
+  pressure on a graphene layer inserted inside an optical microcavity}, Optics
+  Communications 520 (2022).
+\newblock \href {https://doi.org/10.1016/j.optcom.2022.128478}
+  {\path{doi:10.1016/j.optcom.2022.128478}}.
+\newline\urlprefix\url{https://www.sciencedirect.com/science/article/abs/pii/S0030401822003285}
 
 \bibitem{ZhanTMM}
 T.~Zhan, X.~Shi, Y.~Dai, X.~Liu, J.~Zi,
